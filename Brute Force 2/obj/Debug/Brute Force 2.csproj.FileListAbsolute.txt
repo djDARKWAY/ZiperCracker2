@@ -1,0 +1,18 @@
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Brute Force 2.exe.config
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Brute Force 2.exe
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Brute Force 2.pdb
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\SevenZipSharp.dll
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Force 2.csproj.AssemblyReference.cache
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute_Force_2.Form1.resources
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute_Force_2.Properties.Resources.resources
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Force 2.csproj.GenerateResource.cache
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Force 2.csproj.CoreCompileInputs.cache
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Fo.4F43B6A3.Up2Date
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Force 2.exe
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\obj\Debug\Brute Force 2.pdb
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\DB\10mplt.txt
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\DB\1900-2030.txt
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\DB\rockyou.txt
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\close.png
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\padlockClose.png
+C:\Users\CHIP7\source\repos\Brute Force 2\Brute Force 2\bin\Debug\Resources\padlockOpen.png
